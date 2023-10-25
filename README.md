@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Svelte/SvelteKit**
 - 🤝 I’m looking for help with **Iterating on my open-source product [LogYard](https://github.com/oslabs-beta/LogYard)**
 - 💬 Ask me about **Logging, Bun, React, System Design, Node**
+- 🎥 Check out my talk on Bun 1.0! [Bun1.0 Tech Talk](https://www.youtube.com/watch?v=sc08rOVBF6Y)
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/geoffrey-sun/)**
 - ⚡ Other Interests: **Food enthusiast with an insatiable curiosity for culinary adventures, often inspiring exploration of new cities and cultures, and adrenaline seeker, especially in the form of board spots, whether on concrete, water, or snow**
 
