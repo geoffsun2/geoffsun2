@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Sun</h1>
 
-- 🎥 I’m currently building: **A Budget Tracking App**
+- 🎥 I’m currently building: **A Mobile Quilting App**
 - 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for help with **Iterating on my open-source product [LogYard](https://github.com/oslabs-beta/LogYard)**
 - 💬 Ask me about **Logging, Bun, React, System Design, Node**
