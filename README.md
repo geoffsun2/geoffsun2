@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Sun</h1>
 
 - 🎥 I’m currently building: **A Mobile Quilting App**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React Native**
 - 🤝 I’m looking for help with **Iterating on my open-source product [LogYard](https://github.com/oslabs-beta/LogYard)**
 - 💬 Ask me about **Logging, Bun, React, System Design, Node**
 - 🎥 Check out my talk on Bun 1.0! [Bun1.0 Tech Talk](https://www.youtube.com/watch?v=sc08rOVBF6Y)
